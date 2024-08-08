@@ -105,7 +105,7 @@ SELECT 55%2, 55%3
 
 SELECT POWER(23,2), POWER(14,3)
 
---Part – C:
+--Part â€“ C:
 --1. Find out the square root of 36, 49 and 81.
 
 SELECT SQRT(36), SQRT(49), SQRT(81)
